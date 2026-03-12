@@ -251,7 +251,7 @@ print(me.mission())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaCyb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaCyb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaCyb&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=666666&stroke=00FF4120" width="48%" />
 
 <br/><br/>
