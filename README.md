@@ -268,11 +268,11 @@ print(me.mission())
 
 <div align="center">
 
-> 🎥 &nbsp; Running a **cybersecurity education channel** focused on Arabic-speaking audiences
+> 🎥 &nbsp; Running a **cybersecurity education channel** 
 >
-> Topics: Malware Analysis · Digital Forensics · Offensive Security · Reverse Engineering
+> Topics: Malware Analysis · Digital Forensics · Offensive Security · Cyber Security Introductions
 
-[![YouTube Channel](https://img.shields.io/badge/▶_Watch_on_YouTube-BLACK%20HACK%20%40cyb__sta-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cyb_sta)
+[![YouTube Channel](https://img.shields.io/badge/▶_Watch_on_YouTube-CYBER%20STATION%20%40cyb__sta-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cyb_sta)
 
 </div>
 
