@@ -144,7 +144,6 @@ print(me.mission())
     Evidence preservation • Incident response ready<br/>
     <br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Volatility3-5B2D8E?style=flat-square&logoColor=white"/>
   </td>
 </tr>
 <tr>
@@ -158,8 +157,8 @@ print(me.mission())
     Offensive USB dropper simulation tool for physical attack vector research,<br/>
     security awareness training, and red team engagements.<br/>
     <br/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   </td>
 </tr>
 </table>
