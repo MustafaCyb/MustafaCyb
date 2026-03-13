@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mohammad-253583301/)
 [![YouTube](https://img.shields.io/badge/YouTube-CYBER%20STATION-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cyb_sta)
 [![GitHub](https://img.shields.io/badge/GitHub-MustafaCyb-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaCyb)
-[![Iraq](https://img.shields.io/badge/Based%20In-Iraq%20🇮🇶-009A44?style=for-the-badge&logoColor=white)](https://github.com/MustafaCyb)
 
 <br/>
 
