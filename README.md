@@ -28,12 +28,12 @@
 
 ```python
 #!/usr/bin/env python3
-# BLACK HACK — Security Researcher Profile
+#  — Security Researcher Profile
 
 class SecurityResearcher:
     def __init__(self):
         self.name        = "Mustafa Mohammad"
-        self.alias       = "BLACK HACK"
+        
 
         self.roles       = [
             "🦠  Malware Analyst",
